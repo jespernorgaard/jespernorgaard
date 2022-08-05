@@ -30,5 +30,5 @@
 <details>
   <summary><h3>💼Some of my personal portfolio.</h3></summary>
   <h6>More code in this github repository.</h6>
-  <a target="_blank" rel="noopener norefer" href=""><image src="https://user-images.githubusercontent.com/110694139/183200842-986ff50d-2234-400e-92aa-4a163c12fe58.png"/></a>
+  <a target="_blank" rel="noopener norefer" href="https://elsoft.mx/world-time-explorer/"><image src="https://user-images.githubusercontent.com/110694139/183200842-986ff50d-2234-400e-92aa-4a163c12fe58.png"/></a>
  </details>
