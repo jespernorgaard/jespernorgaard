@@ -1,7 +1,7 @@
 # Hi, I'm Jesper Nørgaard 👋
 
 > I am passionate about programming and everything related to software.
-> I have extensive work experience, leadership, management and software development.
+> I have extensive work experience, leadership, management, software development and have worked on over 100 software projects.
 
 ![2012 Cuernava, Mexico - Chess Tournament](https://4.bp.blogspot.com/_oCSLtnsYqLA/R1NmImQEceI/AAAAAAAAA34/PgQW-Ahm-pA/s1600-R/cu5.jpg)
 
