@@ -5,7 +5,7 @@
 
 ![2012 Cuernava, Mexico - Chess Tournament](https://4.bp.blogspot.com/_oCSLtnsYqLA/R1NmImQEceI/AAAAAAAAA34/PgQW-Ahm-pA/s1600-R/cu5.jpg)
 
-## I have experiece with 👨‍💻
+## I have experiece with
 
 | Icon | Language |
 | -- | --------------------------------- |
