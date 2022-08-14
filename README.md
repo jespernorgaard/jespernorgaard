@@ -1,4 +1,4 @@
-# Hi, I'm Jesper Nørgaard 👋
+# Hi, I'm Jesper Nørgaard
 
 > I am passionate about programming and everything related to software.
 > I have extensive work experience, leadership, management, software development and have worked on over 100 software projects.
